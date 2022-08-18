@@ -24,7 +24,7 @@ Onde NOME_DO_GRUPO deverá ser substituído pelo nome do grupo a ser excluído, 
 
 cat /etc/group
 
-Com o ambiente do servidos já preparado, o script poderá ser criado e executado.
+Com o ambiente do servidor já preparado, o script poderá ser criado e executado.
 Para fins de organização, será criada uma pasta script na raiz, onde todos os scripts utilizados serão armazenados.
 
 Utilize o comando "pwd" para ter certeza que você esteja na raiz, caso não esteja, utilize o comando "cd /" e então:
@@ -38,6 +38,8 @@ nano iac1.sh
 
 Onde nano é o editor de textos presente do Linux, o arquivo será criado automaticamente caso ele não exista no diretório.
 O código estará presente dentro do script disponibilizado neste repositório.
+
+O script criado se encontra neste repositório.
 
 -------------------------------------------------------------------------------------------------------------
 
